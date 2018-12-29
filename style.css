@@ -1,6 +1,8 @@
-/* .container { */
-width: 100%;
-display: flex;
-padding: 40px 0 20px 0;
+h1 {
+    text-align: center;
+    padding-top: 10px;
+}
 
+.position {
+    padding: 30px 0 30PX 0;
 }
